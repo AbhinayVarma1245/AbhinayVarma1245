@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4b6cb7&height=180&section=header&text=Hey%20👋%20I'm%20Abhinay%20Varma&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CS+Student+%40+Annamacharya+University;Full+Stack+Developer+%7C+AI+Enthusiast;Currently+exploring+MERN+%26+AI+Agents;Always+shipping+something+new+🚀&font=Fira+Code&center=true&width=500&height=45&color=1a1a1a&vCenter=true&size=20"/>
+<h3>B.Tech CS Student @ Annamacharya University · Full Stack Developer | AI Enthusiast<br/>Currently exploring MERN & AI Agents · Always shipping something new 🚀</h3>
 
 </div>
 
