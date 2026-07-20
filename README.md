@@ -64,29 +64,10 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=AbhinayVarma1245&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbhinayVarma1245&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
-<div align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbhinayVarma1245&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</div>
-
-<br>
-
 ## 📌 Featured Projects
 
-<div align="left">
-  <a href="https://github.com/AbhinayVarma1245/Career_Mentor_AI">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AbhinayVarma1245&repo=Career_Mentor_AI&theme=default&hide_border=true" height="150" alt="CareerMentor AI" />
-  </a>
-  <a href="https://github.com/AbhinayVarma1245/ai-scheme-finder">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AbhinayVarma1245&repo=ai-scheme-finder&theme=default&hide_border=true" height="150" alt="AI Scheme Finder" />
-  </a>
-</div>
+- 🔗 **[Career Mentor AI](https://github.com/AbhinayVarma1245/Career_Mentor_AI)** — AI-powered career guidance project
+- 🔗 **[AI Scheme Finder](https://github.com/AbhinayVarma1245/ai-scheme-finder)** — AI-powered scheme discovery project
 
 <br>
 
